@@ -10,7 +10,7 @@ const App = () => {
 
       {/* navbar */}
 
-      <div className='fixed flex  justify-between w-full text-black sm:pl-5  md:pl-10 md:pr-10 sm:pr-2 pl-10   pr-10 border-b-1 border-sky-400  items-center h-18 bg-slate-950'>
+      <div className='fixed z-50 flex  justify-between w-full text-black sm:pl-5  md:pl-10 md:pr-10 sm:pr-2 pl-10   pr-10 border-b-1 border-sky-400  items-center h-18 bg-slate-950'>
         <div>
           <h1 className='text-2xl w-50 flex font-black text-pink-400'>Rohan Waseem</h1>
         </div>
@@ -27,7 +27,7 @@ const App = () => {
 
       {/* pic page  */}
 
-      <div className='w-full h-screen flex-col lg:pb-15 bg-slate-950 pt-35 flex items-center  justify-center'>
+      <div className='w-full h-full flex-col lg:pb-15 bg-slate-950 pt-35 flex items-center  justify-center'>
 
     
 
