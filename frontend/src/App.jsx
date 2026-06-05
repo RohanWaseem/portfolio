@@ -187,7 +187,7 @@ interfaces.HTML Tailwind CSS JavaScript React JS </h1></div>
   </div>
 
 <div className='flex  items-center justify-center h-full'>
-  <div className='pl-10 pr-10 flex items-center justify-center flex-wrap gap-5 mt-1'>
+  <div className='pl-10 pr-10 flex items-center justify-center flex-wrap gap-5 mt-1 pb-5'>
 
 
  <div className='bg-slate-900 transition-transform duration-300 sm:h-20 hover:-translate-y-1 flex rounded-2xl justify-center hover:border-cyan-400 hover:border-2  items-center h-15  w-full sm:w-[48%] lg:w-[30%]  '>
@@ -253,7 +253,7 @@ interfaces.HTML Tailwind CSS JavaScript React JS </h1></div>
 <div className='pl-10 pr-10 flex  gap-5  items-center justify-center  flex-wrap'>
 
 
-  <div className='bg-slate-900 hover:border-cyan-400 hover:border-2 flex transition-transform duration-300 hover:-translate-y-1 flex-col rounded-2xl justify-center  items-center h-50 mt-10 w-full sm:w-[46%] sm:h-60 lg:w-[30%] '>
+  <div className='bg-slate-900 hover:border-cyan-400 hover:border-2 flex transition-transform duration-300 hover:-translate-y-1 flex-col rounded-2xl justify-center  items-center h-70 mt-10 w-full sm:w-[46%] sm:h-60 lg:w-[30%] '>
 
 
     <div><h1 className='text-white italic mt-1'>E-commerce Website</h1></div>
@@ -267,7 +267,7 @@ interfaces.HTML Tailwind CSS JavaScript React JS </h1></div>
 
   </div>
 
-    <div className='bg-slate-900 hover:border-cyan-400 hover:border-2 flex transition-transform duration-300 hover:-translate-y-1 flex-col rounded-2xl justify-center  items-center h-50 mt-10 w-full sm:w-[46%] sm:h-60 lg:w-[30%] '>
+    <div className='bg-slate-900 hover:border-cyan-400 hover:border-2 flex transition-transform duration-300 hover:-translate-y-1 flex-col rounded-2xl justify-center  items-center h-70 mt-10 w-full sm:w-[46%] sm:h-60 lg:w-[30%] '>
 
     <div><h1 className='text-white italic mt-1'>Point Of Sale</h1></div>
 
@@ -284,7 +284,7 @@ interfaces.HTML Tailwind CSS JavaScript React JS </h1></div>
   </div>
 
  
-  <div className='bg-slate-900 hover:border-cyan-400 hover:border-2 flex transition-transform duration-300 hover:-translate-y-1 flex-col rounded-2xl justify-center  items-center h-50 mt-10 w-full sm:w-[46%] sm:h-60 lg:w-[30%] '>
+  <div className='bg-slate-900 hover:border-cyan-400 hover:border-2 flex transition-transform duration-300 hover:-translate-y-1 flex-col rounded-2xl justify-center  items-centerh-70  mt-10 w-full sm:w-[46%] sm:h-60 lg:w-[30%] '>
 
     <div><h1 className='text-white italic mt-1'>Website</h1></div>
 
@@ -301,7 +301,7 @@ interfaces.HTML Tailwind CSS JavaScript React JS </h1></div>
   </div>
 
 
-  <div className='bg-slate-900 hover:border-cyan-400 hover:border-2 flex transition-transform duration-300 hover:-translate-y-1 flex-col rounded-2xl justify-center  items-center h-50 mt-10 w-full sm:w-[46%] sm:h-60 lg:w-[30%] '>
+  <div className='bg-slate-900 hover:border-cyan-400 hover:border-2 flex transition-transform duration-300 hover:-translate-y-1 flex-col rounded-2xl justify-center  items-center h-70 mt-10 w-full sm:w-[46%] sm:h-60 lg:w-[30%] '>
 
     <div><h1 className='text-white italic mt-1'>School Website</h1></div>
 
@@ -318,7 +318,7 @@ interfaces.HTML Tailwind CSS JavaScript React JS </h1></div>
   </div>
 
   
-  <div className='bg-slate-900 hover:border-cyan-400 hover:border-2 flex transition-transform duration-300 hover:-translate-y-1 flex-col rounded-2xl justify-center  items-center h-50 mt-10 w-full sm:w-[46%] sm:h-60 lg:w-[30%] '>
+  <div className='bg-slate-900 hover:border-cyan-400 hover:border-2 flex transition-transform duration-300 hover:-translate-y-1 flex-col rounded-2xl justify-center  items-center h-70 mt-10 w-full sm:w-[46%] sm:h-60 lg:w-[30%] '>
 
     <div><h1 className='text-white italic mt-1'>Website</h1></div>
 
