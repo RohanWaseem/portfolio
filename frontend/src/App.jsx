@@ -128,7 +128,7 @@ const App = () => {
 <div className='pl-10 pr-10 flex  gap-5  items-center justify-center  flex-wrap'>
 
 
-    <div className='bg-slate-900 flex flex-col lg:h-90 hover:border-cyan-400 z-10  hover:border-2 transition-transform duration-300 hover:-translate-y-1 rounded-2xl justify-center  items-center h-60 mt-10 sm:w-[46%] sm:h-70 lg:w-[30%]'>
+    <div className='bg-slate-900 flex flex-col lg:h-90 hover:border-cyan-400 z-10  hover:border-2 transition-transform duration-300 hover:-translate-y-1 rounded-2xl justify-center  items-center h-65 mt-10 sm:w-[46%] sm:h-70 lg:w-[30%]'>
     <div>
     <h1 className='text-2xl text-sky-400 font-bold'>Decode Lab</h1></div>
 
@@ -141,7 +141,7 @@ const App = () => {
 
   </div>
 
-   <div className='bg-slate-900 flex flex-col lg:h-90 hover:border-cyan-400 hover:border-2 transition-transform duration-300 hover:-translate-y-1 rounded-2xl justify-center  items-center h-50 mt-10 sm:w-[46%] sm:h-70 lg:w-[30%]'>
+   <div className='bg-slate-900 flex flex-col lg:h-90 hover:border-cyan-400 hover:border-2 transition-transform duration-300 hover:-translate-y-1 rounded-2xl justify-center  items-center h-65 mt-10 sm:w-[46%] sm:h-70 lg:w-[30%]'>
     <div>
     <h1 className='text-2xl text-sky-400 font-bold'>TECHNOSYS</h1></div>
 
@@ -155,7 +155,7 @@ and practised real-world projects. </h1></div>
 
   </div>
 
-    <div className='bg-slate-900 flex flex-col lg:h-90 hover:border-cyan-400 hover:border-2 transition-transform duration-300  hover:-translate-y-1 rounded-2xl justify-center  items-center h-50 mt-10 sm:w-[46%] sm:h-70 lg:w-[30%]'>
+    <div className='bg-slate-900 flex flex-col lg:h-90 hover:border-cyan-400 hover:border-2 transition-transform duration-300  hover:-translate-y-1 rounded-2xl justify-center  items-center h-65 mt-10 sm:w-[46%] sm:h-70 lg:w-[30%]'>
     <div>
     <h1 className='text-2xl text-sky-400 font-bold '>MAXIMAL CONSULTANCY </h1></div>
 
