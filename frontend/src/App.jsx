@@ -284,7 +284,7 @@ interfaces.HTML Tailwind CSS JavaScript React JS </h1></div>
   </div>
 
  
-  <div className='bg-slate-900 hover:border-cyan-400 hover:border-2 flex transition-transform duration-300 hover:-translate-y-1 flex-col rounded-2xl justify-center  items-centerh-70  mt-10 w-full sm:w-[46%] sm:h-60 lg:w-[30%] '>
+  <div className='bg-slate-900 hover:border-cyan-400 hover:border-2 flex transition-transform duration-300 hover:-translate-y-1 flex-col rounded-2xl justify-center  items-center h-70  mt-10 w-full sm:w-[46%] sm:h-60 lg:w-[30%] '>
 
     <div><h1 className='text-white italic mt-1'>Website</h1></div>
 
@@ -521,7 +521,7 @@ interfaces.HTML Tailwind CSS JavaScript React JS </h1></div>
 
 {/* Contact with me */}
 
-<div id='contact' className='w-full h-screen pb-20 bg-slate-950 pt-5'>
+<div id='contact' className='w-full h-full  sm:h-screen pb-20 bg-slate-950 pt-5'>
     <div className='text-sky-400 lg:relative lg:top-30  text-5xl pl-10 font-bold'>
     <h1>Contact With Me</h1>
 
