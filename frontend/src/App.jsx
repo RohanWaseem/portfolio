@@ -85,7 +85,7 @@ const App = () => {
 
 <div id="about" className='w-full h-full lg:h-screen pb-15 sm:pb-40 md:pb-20   bg-slate-950 pt-5 '>
 
-  <div className='text-sky-400 relative z-50 sm:pr-90 pr-65 lg:relative lg:top-20  lg:pr-100  lg:text-5xl  md:pr-30  2xl:pr-130 2xl:text-5xl  text-4xl pl-10 font-bold'>
+  <div className='text-sky-400 relative z-10 sm:pr-90 pr-65 lg:relative lg:top-20  lg:pr-100  lg:text-5xl  md:pr-30  2xl:pr-130 2xl:text-5xl  text-4xl pl-10 font-bold'>
     <h1>About Me</h1>
 
 
