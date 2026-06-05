@@ -180,14 +180,14 @@ interfaces.HTML Tailwind CSS JavaScript React JS </h1></div>
 {/* Core Skills */}
 
 <div id='skills' className='w-full h-screen  bg-slate-950 pt-5'>
-   <div className='text-sky-400 sm:relative sm:top-30 lg:top-45  lg:text-5xl text-4xl pl-10 pt-5 font-bold'>
+   <div className='text-sky-400 sm:relative sm:top-30 lg:top-45  lg:text-5xl text-4xl pl-10 font-bold'>
     <h1>Core Skills</h1>
 
 
   </div>
 
 <div className='flex  items-center justify-center h-full'>
-  <div className='pl-10 pr-10 flex items-center justify-center flex-wrap gap-5 mt-5'>
+  <div className='pl-10 pr-10 flex items-center justify-center flex-wrap gap-5 mt-1'>
 
 
  <div className='bg-slate-900 transition-transform duration-300 sm:h-20 hover:-translate-y-1 flex rounded-2xl justify-center hover:border-cyan-400 hover:border-2  items-center h-15  w-full sm:w-[48%] lg:w-[30%]  '>
