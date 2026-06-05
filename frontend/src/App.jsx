@@ -242,7 +242,7 @@ interfaces.HTML Tailwind CSS JavaScript React JS </h1></div>
 {/* feature project  */}
 
 <div id='projects' className='w-full h-full lg:h-screen pb-20 bg-slate-950 pt-5'>
-    <div className='text-sky-400  text-5xl pl-10 font-bold'>
+    <div className='text-sky-400  text-3xl sm:text-5xl pl-10 font-bold'>
     <h1>Feature Projects</h1>
 
 
