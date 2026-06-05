@@ -27,7 +27,7 @@ const App = () => {
 
       {/* pic page  */}
 
-      <div className='w-full h-screen flex-col lg:pb-15 bg-slate-950 pt-35 flex items-center  justify-center'>
+      <div className='w-full h-screen flex-col lg:pb-15 bg-slate-950 pt-25 flex items-center  justify-center'>
 
     
 
