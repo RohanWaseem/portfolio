@@ -12,7 +12,7 @@ const App = () => {
 
       <div className='fixed flex  justify-between w-full text-black sm:pl-5  md:pl-10 md:pr-10 sm:pr-2 pl-10   pr-10 border-b-1 border-sky-400  items-center h-18 bg-slate-950'>
         <div>
-          <h1 className='text-2xl flex font-black text-pink-400'>Rohan Waseem</h1>
+          <h1 className='text-2xl w-50 flex font-black text-pink-400'>Rohan Waseem</h1>
         </div>
         <div className='flex sm:gap-2 lg:gap-5 xl:gap-10 gap-10 text-sky-400 font-bold'>
          <a href="#about"> <div className='hidden sm:block'><h1>About</h1></div></a>
