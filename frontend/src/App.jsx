@@ -180,7 +180,7 @@ interfaces.HTML Tailwind CSS JavaScript React JS </h1></div>
 {/* Core Skills */}
 
 <div id='skills' className='w-full h-screen  bg-slate-950 pt-5'>
-   <div className='text-sky-400 sm:relative sm:top-30 lg:top-45  lg:text-5xl text-4xl pl-10 font-bold'>
+   <div className='text-sky-400 sm:relative sm:top-30 lg:top-45  lg:text-5xl text-4xl pl-10 pt-5 font-bold'>
     <h1>Core Skills</h1>
 
 
