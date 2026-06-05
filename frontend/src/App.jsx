@@ -117,7 +117,7 @@ const App = () => {
 {/* professinal exxperience  */}
 
 
-<div id='experience' className='w-full h-full xl:h-130  bg-slate-950 pt-5'>
+<div id='experience' className='w-full h-full xl:h-130  bg-slate-950 pt-5 pb-15 sm:pb-0'>
   <div className='text-sky-400  text-5xl pl-10 lg:relative xl:top-17 font-bold'>
     <h1>Professional Experience</h1>
 
