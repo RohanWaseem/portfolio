@@ -157,7 +157,7 @@ and practised real-world projects. </h1></div>
 
     <div className='bg-slate-900 flex flex-col lg:h-90 hover:border-cyan-400 hover:border-2 transition-transform duration-300  hover:-translate-y-1 rounded-2xl justify-center  items-center h-65 mt-10 sm:w-[46%] sm:h-70 lg:w-[30%]'>
     <div>
-    <h1 className='text-2xl text-sky-400 font-bold '>MAXIMAL CONSULTANCY </h1></div>
+    <h1 className='text-xl text-sky-400 font-bold '>MAXIMAL CONSULTANCY </h1></div>
 
     <div><h1 className='text-white italic mt-1'>Apr 2024 – Nov 2024</h1></div>
 
